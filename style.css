@@ -1,0 +1,95 @@
+.red_span{
+	color: #A00404;
+
+}
+.under_border{
+	border-bottom: 1px solid gray;
+	font-size: 32px;
+}
+.self_introduction{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+	font-size: 24px;
+
+
+}
+.self_introduction .name{
+	font-size: 80px;
+	
+	padding-bottom: 0px;
+
+}
+
+.skill_container{
+	background-color: #415165;
+	padding-bottom: 15px;
+}
+.white_title{
+	border-bottom: 1px solid gray;
+	font-size: 32px;
+	color: white;
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+
+.skills{
+	color: white;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1200px;
+}
+.skill_deatil{
+	margin-right: auto;
+	margin-left: auto;
+	border-left: 1px solid white;
+	padding: 10px;
+	width: 200px;
+	font-size: 24px;
+  display: inline-block;
+}
+.skill_detail_container{
+  display: flex;
+  justify-content: center;    
+  align-items: center;     
+}
+.work{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 10px;
+	font-size: 32px;
+
+}
+
+.work_detail{
+	margin-left: 10px;
+	border-left: 1px solid gray;
+	padding-left: 10px;
+	font-size: 24px;
+}
+.work_20px{
+	font-size: 20px;
+
+}
+.contact_container{
+	background-color: #415165;
+	padding: 15px;
+}
+.contact{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-size: 32px;
+	color: white;
+	width: 1200px;
+}
+.contact_detail{
+	font-size: 24px;
+
+}
+.icom{
+	display: inline;
+	margin: 10px;
+}
